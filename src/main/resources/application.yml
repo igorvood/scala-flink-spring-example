@@ -1,0 +1,24 @@
+app:
+  simpleProperty:
+    typeSrt: qwerty
+    typeNumber: 456
+    typeBool: false
+  hardProperty:
+    prop:
+      typeSrt: qwerty
+      typeNumber: 456
+      typeBool: false
+    listProp:
+      - list1
+      - list2
+      - list3
+      - list4
+    mapProp:
+      propetyKafka:
+        typeSrt: ЙЦук
+        typeNumber: 5
+        typeBool: false
+      propetyFile:
+        typeSrt: зщшгш
+        typeNumber: 6
+        typeBool: true
